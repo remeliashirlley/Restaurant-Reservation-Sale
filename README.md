@@ -38,13 +38,13 @@ promotional items) and total revenue.<br /><br />
 > The application is to be developed as a Console-based application (non-Graphical UI). Data should be stored in flat file format, either in text or binary. No database application (eg MySQL, MS Access, etc) is to be used.The application is to be developed as a Console-based application (non-Graphical UI). Data should be stored in flat file format, either in text or binary. No database application (eg MySQL, MS Access, etc) is to be used.<br /> <br /> 
 
 #### Assumptions :<br /> 
-(1) Reservation can only be made in advance. Reservation will be automatically removed XX
+1. Reservation can only be made in advance. Reservation will be automatically removed XX
 minutes after the actual booking time*.<br /> 
-(2) The currency will be in Singapore Dollar (SGD) and Good and Services Tax (GST) and
+2. The currency will be in Singapore Dollar (SGD) and Good and Services Tax (GST) and
 service charge must be included in the order invoice.<br /> 
-(3) Once an order invoice is printed*, it is assumed that payment has been made and the table
+3. Once an order invoice is printed*, it is assumed that payment has been made and the table
 is vacated*.<br /> 
-(4) Customer with membership card will be entitled to discount.<br /> 
-(5) There is no requirement for access control and there is no need for authentication
+4. Customer with membership card will be entitled to discount.<br /> 
+5. There is no requirement for access control and there is no need for authentication
 (login/logout) in order to use the application.<br /> 
-(6) There is no need to interface with external system, eg Payment, printer, etc.
+6. There is no need to interface with external system, eg Payment, printer, etc.
