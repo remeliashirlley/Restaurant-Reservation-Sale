@@ -1,7 +1,7 @@
 ## Design and develop a Restaurant Reservation and Point of Sale System (RRPSS)<br /> 
-#### RRPSS is an application to computerize the processes of making reservation, recording of orders and displaying of sale records. It will be solely used by the restaurant staff.<br /><br />  
+### RRPSS is an application to computerize the processes of making reservation, recording of orders and displaying of sale records. It will be solely used by the restaurant staff.<br /><br />  
 
-The following are information about the application:<br /> 
+#### The following are information about the application:<br /> 
 a) Menu items should be categorized according to its type, eg, Main course, drinks,
 dessert, etc.<br /> 
 b) Menu items can be added with details like name, description, price.<br /> 
@@ -23,7 +23,7 @@ entities.<br />
 l) Sale revenue report will detail the period, individual sale items (either ala carte or
 promotional items) and total revenue.<br /><br /> 
 
-Functional Requirements:<br /> 
+#### Functional Requirements:<br /> 
 1. Create/Update/Remove menu item <br /> 
 2. Create/Update/Remove promotion<br />  
 3. Create order<br /> 
@@ -35,9 +35,9 @@ Functional Requirements:<br />
 9. Print order invoice<br /> 
 10. Print sale revenue report by period (eg day or month)<br /> <br /> 
 
-The application is to be developed as a Console-based application (non-Graphical UI). Data should be stored in flat file format, either in text or binary. No database application (eg MySQL, MS Access, etc) is to be used.The application is to be developed as a Console-based application (non-Graphical UI). Data should be stored in flat file format, either in text or binary. No database application (eg MySQL, MS Access, etc) is to be used.<br /> <br /> 
+> The application is to be developed as a Console-based application (non-Graphical UI). Data should be stored in flat file format, either in text or binary. No database application (eg MySQL, MS Access, etc) is to be used.The application is to be developed as a Console-based application (non-Graphical UI). Data should be stored in flat file format, either in text or binary. No database application (eg MySQL, MS Access, etc) is to be used.<br /> <br /> 
 
-Assumptions :<br /> 
+#### Assumptions :<br /> 
 (1) Reservation can only be made in advance. Reservation will be automatically removed XX
 minutes after the actual booking time*.<br /> 
 (2) The currency will be in Singapore Dollar (SGD) and Good and Services Tax (GST) and
